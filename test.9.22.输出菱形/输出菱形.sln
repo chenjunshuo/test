@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "输出菱形", "输出菱形\输出菱形.vcproj", "{0E449226-D3E5-4316-9518-5765D6509285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E449226-D3E5-4316-9518-5765D6509285}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E449226-D3E5-4316-9518-5765D6509285}.Debug|Win32.Build.0 = Debug|Win32
+		{0E449226-D3E5-4316-9518-5765D6509285}.Release|Win32.ActiveCfg = Release|Win32
+		{0E449226-D3E5-4316-9518-5765D6509285}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
