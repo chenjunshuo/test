@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.9.25.三个数按大小输出（指针）", "test.9.25.三个数按大小输出（指针）\test.9.25.三个数按大小输出（指针）.vcproj", "{01EA09C1-D0B7-4A52-B20C-25E91CC354D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01EA09C1-D0B7-4A52-B20C-25E91CC354D4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01EA09C1-D0B7-4A52-B20C-25E91CC354D4}.Debug|Win32.Build.0 = Debug|Win32
+		{01EA09C1-D0B7-4A52-B20C-25E91CC354D4}.Release|Win32.ActiveCfg = Release|Win32
+		{01EA09C1-D0B7-4A52-B20C-25E91CC354D4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
