@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.9.27.猜数字游戏", "test.9.27.猜数字游戏\test.9.27.猜数字游戏.vcproj", "{B6099D85-C238-4A78-A05B-506FB56434FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6099D85-C238-4A78-A05B-506FB56434FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6099D85-C238-4A78-A05B-506FB56434FD}.Debug|Win32.Build.0 = Debug|Win32
+		{B6099D85-C238-4A78-A05B-506FB56434FD}.Release|Win32.ActiveCfg = Release|Win32
+		{B6099D85-C238-4A78-A05B-506FB56434FD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
