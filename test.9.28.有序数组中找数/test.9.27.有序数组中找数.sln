@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.9.27.有序数组中找数", "test.9.27.有序数组中找数\test.9.27.有序数组中找数.vcproj", "{CBFF8C76-FD79-485E-B6B6-B32BF3B28170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBFF8C76-FD79-485E-B6B6-B32BF3B28170}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBFF8C76-FD79-485E-B6B6-B32BF3B28170}.Debug|Win32.Build.0 = Debug|Win32
+		{CBFF8C76-FD79-485E-B6B6-B32BF3B28170}.Release|Win32.ActiveCfg = Release|Win32
+		{CBFF8C76-FD79-485E-B6B6-B32BF3B28170}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
