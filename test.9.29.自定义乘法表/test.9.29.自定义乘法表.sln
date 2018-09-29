@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.9.29.自定义乘法表", "test.9.29.自定义乘法表\test.9.29.自定义乘法表.vcproj", "{BBD7B852-D61E-4B8A-BD62-D5060CE05ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBD7B852-D61E-4B8A-BD62-D5060CE05ECF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBD7B852-D61E-4B8A-BD62-D5060CE05ECF}.Debug|Win32.Build.0 = Debug|Win32
+		{BBD7B852-D61E-4B8A-BD62-D5060CE05ECF}.Release|Win32.ActiveCfg = Release|Win32
+		{BBD7B852-D61E-4B8A-BD62-D5060CE05ECF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
