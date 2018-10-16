@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.10.16.比较两数的二进制有几位不同", "test.10.16.比较两数的二进制有几位不同\test.10.16.比较两数的二进制有几位不同.vcproj", "{3ED3C15C-D2F2-4CED-BECA-297B3E12E517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ED3C15C-D2F2-4CED-BECA-297B3E12E517}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3ED3C15C-D2F2-4CED-BECA-297B3E12E517}.Debug|Win32.Build.0 = Debug|Win32
+		{3ED3C15C-D2F2-4CED-BECA-297B3E12E517}.Release|Win32.ActiveCfg = Release|Win32
+		{3ED3C15C-D2F2-4CED-BECA-297B3E12E517}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
