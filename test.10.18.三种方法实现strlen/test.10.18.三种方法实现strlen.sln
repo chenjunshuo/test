@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.10.18.三种方法实现strlen", "test.10.18.三种方法实现strlen\test.10.18.三种方法实现strlen.vcproj", "{3014D06D-4D57-4FF8-8CCF-19251D79159C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3014D06D-4D57-4FF8-8CCF-19251D79159C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3014D06D-4D57-4FF8-8CCF-19251D79159C}.Debug|Win32.Build.0 = Debug|Win32
+		{3014D06D-4D57-4FF8-8CCF-19251D79159C}.Release|Win32.ActiveCfg = Release|Win32
+		{3014D06D-4D57-4FF8-8CCF-19251D79159C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
