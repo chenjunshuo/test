@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.10.23.求平均值", "test.10.23.求平均值\test.10.23.求平均值.vcproj", "{ABF1E492-80E6-4C9C-B9C7-63CC3900F5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF1E492-80E6-4C9C-B9C7-63CC3900F5D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ABF1E492-80E6-4C9C-B9C7-63CC3900F5D0}.Debug|Win32.Build.0 = Debug|Win32
+		{ABF1E492-80E6-4C9C-B9C7-63CC3900F5D0}.Release|Win32.ActiveCfg = Release|Win32
+		{ABF1E492-80E6-4C9C-B9C7-63CC3900F5D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
