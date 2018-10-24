@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.10.24.语句颠倒", "test.10.24.语句颠倒\test.10.24.语句颠倒.vcproj", "{9C14B8B0-D177-47D0-B63F-5BDB8A95044A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C14B8B0-D177-47D0-B63F-5BDB8A95044A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C14B8B0-D177-47D0-B63F-5BDB8A95044A}.Debug|Win32.Build.0 = Debug|Win32
+		{9C14B8B0-D177-47D0-B63F-5BDB8A95044A}.Release|Win32.ActiveCfg = Release|Win32
+		{9C14B8B0-D177-47D0-B63F-5BDB8A95044A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
