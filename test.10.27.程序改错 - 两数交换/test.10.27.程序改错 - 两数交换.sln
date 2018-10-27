@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.10.27.程序改错 - 两数交换", "test.10.27.程序改错 - 两数交换\test.10.27.程序改错 - 两数交换.vcproj", "{CBA9F5F5-84FC-4976-A683-C86FD7B85597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA9F5F5-84FC-4976-A683-C86FD7B85597}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBA9F5F5-84FC-4976-A683-C86FD7B85597}.Debug|Win32.Build.0 = Debug|Win32
+		{CBA9F5F5-84FC-4976-A683-C86FD7B85597}.Release|Win32.ActiveCfg = Release|Win32
+		{CBA9F5F5-84FC-4976-A683-C86FD7B85597}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
