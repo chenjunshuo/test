@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.11.6.实现strchr", "test.11.6.实现strchr\test.11.6.实现strchr.vcproj", "{00BFD3F5-888B-42A8-B7DD-A90ECFA07EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00BFD3F5-888B-42A8-B7DD-A90ECFA07EBD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00BFD3F5-888B-42A8-B7DD-A90ECFA07EBD}.Debug|Win32.Build.0 = Debug|Win32
+		{00BFD3F5-888B-42A8-B7DD-A90ECFA07EBD}.Release|Win32.ActiveCfg = Release|Win32
+		{00BFD3F5-888B-42A8-B7DD-A90ECFA07EBD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
