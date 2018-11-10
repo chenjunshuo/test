@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.11.10.回调函数", "test.11.10.回调函数\test.11.10.回调函数.vcproj", "{57DE674F-EFB6-4024-B026-9496B400A816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57DE674F-EFB6-4024-B026-9496B400A816}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57DE674F-EFB6-4024-B026-9496B400A816}.Debug|Win32.Build.0 = Debug|Win32
+		{57DE674F-EFB6-4024-B026-9496B400A816}.Release|Win32.ActiveCfg = Release|Win32
+		{57DE674F-EFB6-4024-B026-9496B400A816}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
