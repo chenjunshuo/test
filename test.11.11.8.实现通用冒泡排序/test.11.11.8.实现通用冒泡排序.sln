@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.11.11.8.实现通用冒泡排序", "test.11.11.8.实现通用冒泡排序\test.11.11.8.实现通用冒泡排序.vcproj", "{0FA383BC-5A8E-4A6B-BB6E-604CD4FDED7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FA383BC-5A8E-4A6B-BB6E-604CD4FDED7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0FA383BC-5A8E-4A6B-BB6E-604CD4FDED7F}.Debug|Win32.Build.0 = Debug|Win32
+		{0FA383BC-5A8E-4A6B-BB6E-604CD4FDED7F}.Release|Win32.ActiveCfg = Release|Win32
+		{0FA383BC-5A8E-4A6B-BB6E-604CD4FDED7F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
