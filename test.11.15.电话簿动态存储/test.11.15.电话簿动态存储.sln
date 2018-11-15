@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test.11.15.电话簿动态存储", "test.11.15.电话簿动态存储\test.11.15.电话簿动态存储.vcproj", "{EF0427C5-116D-419F-86E8-ECBACADA9170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0427C5-116D-419F-86E8-ECBACADA9170}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EF0427C5-116D-419F-86E8-ECBACADA9170}.Debug|Win32.Build.0 = Debug|Win32
+		{EF0427C5-116D-419F-86E8-ECBACADA9170}.Release|Win32.ActiveCfg = Release|Win32
+		{EF0427C5-116D-419F-86E8-ECBACADA9170}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
